@@ -1,19 +1,17 @@
 <div align="center">
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=C98A4A&center=true&pause=999999999&loop=false&lines=Hi%2C+I%27m+Yi.+AI+Full-Stack+Developer.)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=16&color=C98A4A&center=true&pause=999999999&loop=false&lines=Sophomore+%40+WashU+%7C+Bioinformatics+Researcher+%40+WashU+Medicine+%7C+Open-source+enthusiast.)
-
-👋 **I am open to internship & project opportunities in any interesting direction.**
-
-<img src="https://img.shields.io/badge/Born-2007--08--30-brightgreen?style=flat-square&logo=cakephp&logoColor=white">
-<img src="https://img.shields.io/badge/Location-St.%20Louis%20%2F%20Shanghai-red?style=flat-square&logo=googlemaps&logoColor=white">
-<img src="https://komarev.com/ghpvc/?username=yihuang0830&style=flat-square&color=C98A4A">
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=C98A4A&center=true&pause=999999999&loop=false&lines=Hi%2C+I%27m+Yi.+AI+Full-Stack+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=C98A4A&center=true&vCenter=true&width=780&pause=999999999&loop=false&lines=Sophomore+%40+WashU+%7C+Bioinformatics+Researcher+%40+WashU+Medicine+%7C+Open-source+enthusiast." alt="Role"/>
+  <p>
+    👋 <strong>I am open to internship &amp; project opportunities in any interesting direction.</strong>
+  </p>
+  <p>
+    <code>🌱 Born 2007-08-30</code>
+    <code>📍 St. Louis / Shanghai</code>
+  </p>
 </div>
 
 - I build things that are either genuinely useful (scratching my own itch) or just too fun not to build.
-- If I see something cool, I want to understand it well enough to make my own version.
+- If I see something cool, I want to understand it well enough to make my own version — that's usually how I learn best.
 - Currently seeking AI / Full-Stack internships — but honestly, if the project is interesting enough, we should talk.
 - Always down to connect: if something I'm building catches your eye, or you just want to chat, feel free to reach out!!
 
