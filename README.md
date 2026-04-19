@@ -1,5 +1,4 @@
 <div align="center">
-  <h3>yihuang0830 / README.md</h3>
   <h1>Hi, I'm Yi. Computer Science & Neuroscience Developer.</h1>
   
   <p><b>Sophomore @ WashU | Bioinformatics Researcher @ WashU Medicine | Open-source enthusiast.</b></p>
