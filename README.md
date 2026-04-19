@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=C98A4A&center=true&pause=999999999&loop=false&lines=Hi%2C+I%27m+Yi.+AI+Full-Stack+Developer." alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=C98A4A&center=true&vCenter=true&width=780&pause=999999999&loop=false&lines=Sophomore+%40+WashU+%7C+Bioinformatics+Researcher+%40+WashU+Medicine+%7C+Open-source+enthusiast." alt="Role"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=22&color=C98A4A&center=true&pause=999999999&loop=false&width=780&height=45&lines=Hi.+This+is+Yi.+AI+Full-Stack+Developer." alt="Hi"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=16&color=C98A4A&center=true&vCenter=true&width=780&height=35&pause=999999999&loop=false&lines=CS+%26+Neuro+%40+WashU+%7C+Bioinformatics+Researcher+%7C+Open-source+enthusiast." alt="Role"/>
   <p>
     👋 <strong>I am open to internship &amp; project opportunities in any interesting direction.</strong>
   </p>
