@@ -12,8 +12,8 @@
 </div>
 
 - I build things that are either genuinely useful (scratching my own itch) or just too fun not to build.
-- If I see something cool, I want to understand it well enough to make my own version — that's usually how I learn best.
-- Currently seeking AI / Full-Stack internships — but honestly, if the project is interesting enough, we should talk.
+- If I see something cool, I want to understand it well enough to make my own version. That's usually how I learn best.
+- Currently seeking AI / Full-Stack internships, but lowkey if the project is interesting enough, we should talk!!
 - Always down to connect: if something I'm building catches your eye, or you just want to chat, feel free to reach out!!
 
 ### Links
