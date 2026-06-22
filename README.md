@@ -10,19 +10,16 @@
     <code>📍 St. Louis / Shanghai</code>
   </p>
 </div>
-
 - I build things that are either genuinely useful (scratching my own itch) or just too fun not to build.
 - If I see something cool, I want to understand it well enough to make my own version. That's usually how I learn best.
 - Currently seeking AI / Full-Stack internships, but lowkey if the project is interesting enough, we should talk!!
 - Always down to connect: if something I'm building catches your eye, or you just want to chat, feel free to reach out!!
-
 ### Links
-
 <p>
+  <a href="http://yiwiki.work/"><img src="https://img.shields.io/badge/Homepage-yiwiki.work-C98A4A?style=flat-square&logo=wikipedia&logoColor=white"></a>
   <a href="mailto:yihuang0830@gmail.com"><img src="https://img.shields.io/badge/Gmail-yihuang0830@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/yihuang001/"><img src="https://img.shields.io/badge/LinkedIn-yihuang001-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="https://www.xiaohongshu.com/user/profile/658b8193000000002200513e"><img src="https://img.shields.io/badge/小红书-e-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white"></a>
   <a href="https://www.instagram.com/imewhoru11/"><img src="https://img.shields.io/badge/Instagram-imewhoru11-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
-
 > "I don't have a favourite quote yet, but I will someday."
