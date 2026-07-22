@@ -26,4 +26,4 @@
   <a href="https://www.instagram.com/imewhoru11/"><img src="https://img.shields.io/badge/Instagram-imewhoru11-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
 </p>
 
-> "I don't have a favourite quote yet, but I will someday."
+> "：）"
